@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+https://www.coursera.org/learn/rails-with-active-record/lecture/d2bsy/introduction-to-migrations
